@@ -1,0 +1,21 @@
+{
+  "name": "animap-server",
+  "version": "1.0.0",
+  "description": "server for animap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "animap-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fuse.js": "^6.6.2",
+    "mysql2": "^3.6.2"
+  }
+}
